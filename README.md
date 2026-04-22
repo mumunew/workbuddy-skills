@@ -1,6 +1,6 @@
-# WorkBuddy Skills
+Skills
 
-开源 WorkBuddy AI助手技能库。
+开源AI助手技能库。
 
 ## naval-decision（纳瓦尔人生决策助手）
 
@@ -16,14 +16,9 @@
 
 ## 安装方式
 
-将 Skill 文件夹放入 WorkBuddy 的 ~/.workbuddy/skills/ 目录下即可自动加载。
+将 Skill 文件夹放入 相应/skills/ 目录下即可自动加载。
 
-## 后续上传计划
 
-- 去AI味 Skill
-- 公众号写手 Skill
-- 知识卡片生成 Skill
-- 更多...
 
 ---
 *"用行动解决问题，用接受解决情绪"*
